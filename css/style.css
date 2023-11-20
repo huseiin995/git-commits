@@ -12,3 +12,17 @@ body{
     flex-direction: column;
     min-height: 100vh;
 }
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
